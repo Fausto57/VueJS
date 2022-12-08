@@ -80,7 +80,7 @@
                                                 </v-btn>
                                             </v-date-picker>
                                         </v-menu>
-                                        {{date}}
+                                    
 
                                     </v-row>
 
