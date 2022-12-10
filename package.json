@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "start": "start .",
+    "start": "vue-cli-service start .",
     "build": "vue-cli-service build"
   },
   "dependencies": {
